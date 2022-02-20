@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @blueguy213
+- 👀 I’m interested in machine learning, DeFi, physics, and anything that catches my eye.
+- 🌱 I’m currently learning how to talk to machines (or at least write letters lol).
+- 💞️ I’m looking to collaborate on anything I find interesting or think is important.
+- 📫 How to reach me: Send me a message on LinkedIn.
